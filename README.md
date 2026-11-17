@@ -24,32 +24,17 @@ Currently focusing on **Java**, object-oriented programming and building project
 
 ### Programming Languages
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-</p>
+\<p>   \<img src="[https://skillicons.dev/icons?i=java,py,c,cpp&theme=dark](https://skillicons.dev/icons?i=java,py,c,cpp\&theme=dark)" alt="Java, Python, C and C++" /> \</p>
 
 ### Frontend Development
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-</p>
+\<p>   \<img src="[https://skillicons.dev/icons?i=ts,react,html,css,tailwind&theme=dark](https://skillicons.dev/icons?i=ts,react,html,css,tailwind\&theme=dark)" alt="TypeScript, React, HTML, CSS and Tailwind CSS" /> \</p>
 
 ### Tools & Development Environment
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
-  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white" alt="Linux Mint" />
-</p>
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=git,github,idea,pycharm,mint&theme=dark](https://skillicons.dev/icons?i=git,github,idea,pycharm,mint\&theme=dark)" alt="Git, GitHub, IntelliJ IDEA, PyCharm and Linux Mint" />
+\</p>
 
 ---
 
@@ -71,22 +56,22 @@ My personal portfolio, showcasing my projects, technical interests and developme
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhianAmaral&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E" alt="Top Languages" />
-</p>
+\<p align="center">
+\<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=RhianAmaral&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E](https://github-readme-stats.vercel.app/api/top-langs/?username=RhianAmaral\&layout=compact\&hide_border=true\&bg_color=00000000\&title_color=58A6FF\&text_color=8B949E)" alt="Top Languages" />
+\</p>
 
 ---
 
 ## 📫 Connect with Me
 
-<p>
-  <a href="https://www.linkedin.com/in/rhian-amaral-1189b5350">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/RhianAmaral">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+\<p>
+&#x20; \<a href="[https://www.linkedin.com/in/rhian-amaral-1189b5350](https://www.linkedin.com/in/rhian-amaral-1189b5350)">
+&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn" />
+&#x20; \</a>
+&#x20; \<a href="[https://github.com/RhianAmaral](https://github.com/RhianAmaral)">
+&#x20;   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub" />
+&#x20; \</a>
+\</p>
 
 ---
 
