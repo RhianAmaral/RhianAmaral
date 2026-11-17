@@ -31,7 +31,7 @@ Currently focusing on **Java**, object-oriented programming and building project
 ### Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,react,html,css,tailwind" alt="TypeScript, HTML, and CSS" />
+  <img src="https://skillicons.dev/icons?i=ts,html,css," alt="TypeScript, HTML, and CSS" />
 </p>
 
 ### Tools & Development Environment
