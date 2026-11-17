@@ -24,17 +24,21 @@ Currently focusing on **Java**, object-oriented programming and building project
 
 ### Programming Languages
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=java,py,c,cpp&theme=dark](https://skillicons.dev/icons?i=java,py,c,cpp\&theme=dark)" alt="Java, Python, C and C++" /> \</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,py,c,cpp" alt="Java, Python, C and C++" />
+</p>
 
 ### Frontend Development
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=ts,react,html,css,tailwind&theme=dark](https://skillicons.dev/icons?i=ts,react,html,css,tailwind\&theme=dark)" alt="TypeScript, React, HTML, CSS and Tailwind CSS" /> \</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,html,css,tailwind" alt="TypeScript, HTML, and CSS" />
+</p>
 
 ### Tools & Development Environment
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=git,github,idea,pycharm,mint&theme=dark](https://skillicons.dev/icons?i=git,github,idea,pycharm,mint\&theme=dark)" alt="Git, GitHub, IntelliJ IDEA, PyCharm and Linux Mint" />
-\</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,idea,pycharm,mint" alt="Git, GitHub, IntelliJ IDEA, PyCharm and Linux Mint" />
+</p>
 
 ---
 
@@ -56,22 +60,22 @@ My personal portfolio, showcasing my projects, technical interests and developme
 
 ## 📊 GitHub Statistics
 
-\<p align="center">
-\<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=RhianAmaral&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E](https://github-readme-stats.vercel.app/api/top-langs/?username=RhianAmaral\&layout=compact\&hide_border=true\&bg_color=00000000\&title_color=58A6FF\&text_color=8B949E)" alt="Top Languages" />
-\</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhianAmaral&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E" alt="Top Languages" />
+</p>
 
 ---
 
 ## 📫 Connect with Me
 
-\<p>
-&#x20; \<a href="[https://www.linkedin.com/in/rhian-amaral-1189b5350](https://www.linkedin.com/in/rhian-amaral-1189b5350)">
-&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn" />
-&#x20; \</a>
-&#x20; \<a href="[https://github.com/RhianAmaral](https://github.com/RhianAmaral)">
-&#x20;   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub" />
-&#x20; \</a>
-\</p>
+<p>
+  <a href="https://www.linkedin.com/in/rhian-amaral-1189b5350">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/RhianAmaral">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
