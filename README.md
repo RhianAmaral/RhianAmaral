@@ -72,4 +72,24 @@ My personal portfolio, showcasing my projects, technical interests and developme
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RhianAmaral&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon
+  <img src="https://github-readme-stats.vercel.app/api?username=RhianAmaral&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhianAmaral&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/rhian-amaral-1189b5350">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/RhianAmaral">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+*Always learning. Always building. Always improving.*
+
